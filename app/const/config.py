@@ -1,6 +1,6 @@
 # Tokens here
-TOKEN = '7516471204:AAG4TReCXHjsMa8sCudjhvjHvYrOWX7EfLo'
-PAYMENT_TOKEN = '5322214758:TEST:8298fb79-0aa6-42a1-b701-448956d1aad1'
+TOKEN = 'telegram_token'
+PAYMENT_TOKEN = 'payment_token'
 
 # Other private data here
 LINK = 'some_channel_link'
